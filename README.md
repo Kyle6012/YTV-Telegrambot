@@ -13,44 +13,44 @@ This bot allows you to download YouTube videos by sending a YouTube link to the 
     Install Git
 ```bash
 sudo apt-get install git 
-
+```
    Clone the repository
 
-```bash
+```
 git clone https://github.com/Kyle6012/YTV-Telegrambot
 cd YTV-Telegrambot
-
+```
    Add your Telegram bot Token in the token input
 
    Run the run.sh file
 
-```bash
+```
 chmod +x run.sh
 ./run.sh
-
+```
 ### 2. For Termux
     Install Git and Python
 
-```bash
+```
 pkg update
 pkg upgrade
 pkg install git python
-
+```
 
    Clone the repository
 
-```bash
+```
 git clone https://github.com/Kyle6012/YTV-Telegrambot
 cd YTV-Telegrambot
-
+```
    Add your Telegram bot Token in the token input
 
    Run the run.sh file
 
-```bash
+```
 chmod +x run.sh
 ./run.sh
-
+```
 ### 3. Heroku and Replit
 
 

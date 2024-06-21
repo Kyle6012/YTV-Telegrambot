@@ -5,7 +5,7 @@ from pytube import YouTube
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = '7124059740:AAG9R9a2l_6xFrlrOGfuSXmwFE6i34E0vQU'
+TOKEN = 'YOUR_BOT_TOKEN_HERE'
 
 def load_cookies(cookie_file):
     from http.cookiejar import MozillaCookieJar
